@@ -1,6 +1,6 @@
 [versions]
 plugin-android = "8.7.2"
-plugin-ktlint = "10.2.1"
+plugin-ktlint = "12.1.2"
 plugin-detekt = "1.23.7"
 plugin-maven = "0.30.0"
 
