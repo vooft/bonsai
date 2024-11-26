@@ -4,7 +4,7 @@ plugin-ktlint = "10.2.1"
 plugin-detekt = "1.20.0-RC1"
 plugin-maven = "0.18.0"
 
-kotlin = "1.8.22"
+kotlin = "2.0.21"
 okio = "3.0.0"
 serialization = "1.5.1"
 
