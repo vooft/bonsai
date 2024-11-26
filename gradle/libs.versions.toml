@@ -12,7 +12,7 @@ compose = "1.4.8"
 composeMultiplatform = "1.4.3"
 composeActivity = "1.7.2"
 composeVoyager = "1.0.0-beta16"
-material = "1.4.3"
+material = "1.7.5"
 
 [libraries]
 plugin-android = { module = "com.android.tools.build:gradle", version.ref = "plugin-android" }
