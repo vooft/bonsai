@@ -9,7 +9,7 @@ okio = "3.9.1"
 serialization = "1.7.3"
 
 compose = "1.7.5"
-composeMultiplatform = "1.7.1"
+composeMultiplatform = "1.8.0+dev1925"
 composeActivity = "1.9.3"
 composeVoyager = "1.1.0-beta03"
 material = "1.7.5"
